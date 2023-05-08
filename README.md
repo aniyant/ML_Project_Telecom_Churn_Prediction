@@ -8,7 +8,7 @@
 ### 🔵 Creating the flask API
 
 ```
-app = Flask("__name__")
+ app = Flask("__name__")
 ```
 
 The loadPage method calls our home.html.
